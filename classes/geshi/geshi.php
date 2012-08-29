@@ -1101,6 +1101,7 @@ class GeSHi
 				'pascal' => array('pas'),
 				'perl' => array('pl', 'pm'),
 				'php' => array('php', 'php5', 'phtml', 'phps'),
+				'pike' => array('pike', 'pmod'),
 				'python' => array('py'),
 				'qbasic' => array('bi'),
                 'sas' => array('sas'),

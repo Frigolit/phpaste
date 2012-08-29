@@ -155,6 +155,7 @@ $CONF['geshiformats']=array(
 	'php-brief'=>'PHP (Brief version)',
 	'php'=>'PHP',
 	'pic16'=>'PIC16 Assembler',
+	'pike'=>'Pike',
 	'pixelbender'=>'Pixel Bender',
 	'text'=>'Plain text',
 	'plsql'=>'Oracle 9.2 PL/SQL',
@@ -197,7 +198,7 @@ $CONF['geshiformats']=array(
 	'xml'=>'XML',
 	'xorg_conf'=>'xorg.conf',
 	'xpp'=>'Axapta/Dynamics Ax X++',
-	'z80'=>'ZiLOG Z80 Assembler',
+	'z80'=>'ZiLOG Z80 Assembler'
 );
 
 // The formats that are listed first.
